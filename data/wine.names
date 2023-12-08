@@ -1,0 +1,10 @@
+1. Names of Attributes
+Alcohol, Malic acid, Ash, Alcalinity of ash, Magnesium, Total phenols, Flavanoids, Nonflavanoid phenols, Proanthocyanins, Color intensity, Hue, OD280/OD315 of diluted wines, Proline
+
+2. Number of Instances
+class 1 59
+class 2 71
+class 3 48
+
+3. Number of Attributes 
+13
